@@ -1,0 +1,20 @@
+{
+  "name": "claps",
+  "id": "5c6ae4a82475976a4c2fb93f",
+  "instancable": true,
+  "creator": false,
+  "userInfo": false,
+  "fullscreen": true,
+  "inline": true,
+  "shareDB": true,
+  "searchable": true,
+  "width": 150,
+  "height": 150,
+  "servIndexes": {
+    "inline": "index",
+    "customize": "index",
+    "main": "index",
+    "fullscreen": "index"
+  },
+  "version": "0.0.1"
+}
