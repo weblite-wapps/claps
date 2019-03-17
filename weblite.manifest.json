@@ -1,7 +1,7 @@
 {
   "name": "claps",
   "id": "5c6ae4a82475976a4c2fb93f",
-  "instancable": true,
+  "instantiable": true,
   "creator": false,
   "userInfo": false,
   "fullscreen": true,
